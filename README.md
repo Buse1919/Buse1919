@@ -2,7 +2,7 @@
 <h1 align="left">Hi there, I'm Buse 👋🏻 </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, reading, researching. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
-<h5 align="left">📍 Currently base at: İzmir, Turkey</h5>
+<h5 align="left">📍 Currently base at: Izmir, Turkey</h5>
 
 
 
